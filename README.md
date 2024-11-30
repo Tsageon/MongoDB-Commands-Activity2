@@ -6,6 +6,10 @@ mongosh
 
 use CodeTribe
 
+**To view all collections in the database type the following command:**
+
+show collections
+
 **To create the Facilitators collection type the following command:**
 
 db.createCollection('Facilitators')
