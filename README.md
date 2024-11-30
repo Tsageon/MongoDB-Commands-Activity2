@@ -10,11 +10,11 @@ use CodeTribe
 
 db.createCollection('Facilitators')
 
-**To create the Trainees coolection type the following command:**
+**To create the Trainees collection type the following command:**
 
 db.createCollection('Trainees')
 
-**To create the Projects coolection type the following command:**
+**To create the Projects collection type the following command:**
 
 db.createCollection('Projects')
 
